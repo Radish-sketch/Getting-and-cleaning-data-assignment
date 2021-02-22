@@ -33,4 +33,5 @@ The dataset used the following files:
 - mergedData : merge the testSet and training trainingSet with activity
 
 - newData : average of each variable for each activity and each subject. 172 variables, only mean and std are included.
-
+ 
+ 
